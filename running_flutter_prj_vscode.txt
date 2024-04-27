@@ -10,4 +10,11 @@ Check whether flutter is installed or not through
 // flutter create project_name
 5)cd coffee_card
 cd project_name
-6) flutter run 
+6) flutter run  (if not then see below)
+7)Also make sure to install flutter extension from vs code 
+8) Make sure the status bar is visible 
+9) View->Appearance->Status Bar
+10)Choose a emulator-> present was desktop 
+11) start mobile emulator
+12)lib->main.dart->run without debugging
+13)changes reflected on emulator 
