@@ -1,0 +1,13 @@
+Check whether flutter is installed or not through 
+1) flutter --version (on cmd)
+[Flutter should be installed along with Dart]
+2) Open the folder in which flutter prj should be made 
+3) open terminal(powershell)
+4) flutter create coffee_card(project_name)
+// flutter create project_name
+// flutter create project_name
+// flutter create project_name
+// flutter create project_name
+5)cd coffee_card
+cd project_name
+6) flutter run 
