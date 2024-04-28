@@ -1,0 +1,29 @@
+1)select a responsive website -> download zip and extract all ->and open is vs code ->live server should be installed 
+2)create manifest.json file
+{
+    "name": "Food Ninja",
+    "short_name": "FoodNinjasbyNinjaHattori",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#FFE9D2",
+    "theme_color": "#FFE1C4",
+    "orientation": "potrait-primary",
+    "icons": [
+        {
+            "src": "/images/icons-64x64_cooking.png",
+            "type": "image/png",
+            "sizes": "64x64"
+        },
+        {
+            "src": "/images/icons-100x100_lamp.png",
+            "type": "image/png",
+            "sizes": "100x100"
+        }
+    ]
+}
+
+
+3)add the manifest file in html->link href="manifest.json"
+4) website->inspect->application->manifest.json
+5)To check on phone-> same network ->ipv4 address:port_no
+ 
